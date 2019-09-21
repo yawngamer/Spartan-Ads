@@ -9,7 +9,7 @@ body {
 .banner {
   vertical-align:middle;
   text-align:center;
-  height:15vh;
+  height:17vh;
   background:#9D0526;
   position:relative;
   width:100vw;
@@ -18,10 +18,11 @@ body {
   justify-content:center;
 }
 .bannericon {
-  padding: 2vh;
+  vertical-align: top;
   height:10vh;
 }
 .bannertext {
+  padding: 5.5vh;
   font-size: 8vh;
   font-family: Spectral;
   color: white;
