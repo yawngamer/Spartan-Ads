@@ -18,6 +18,7 @@ body {
   justify-content:center;
 }
 .bannericon {
+  padding: 2vh;
   height:10vh;
 }
 .bannertext {
