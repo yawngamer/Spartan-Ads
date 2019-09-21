@@ -1,15 +1,30 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,400,400italic,700,700italic%7CCinzel");
+@import url("https://fonts.googleapis.com/css?family=Spectral:300,400,400italic,700,700italic%7CCinzel");
 body {
+  font-family:Roboto;
   background-color:#fff8e3;
   margin:0px;
-  top-margin:-20px;
+  margin-top:-20px;
 } 
 .banner {
-  height:80px;
+  vertical-align:middle;
+  text-align:center;
+  height:17vh;
   background:#9D0526;
   position:relative;
   width:100vw;
   top:0;
   left:0;
   justify-content:center;
+}
+.bannericon {
+  vertical-align: top;
+  height:10vh;
+}
+.bannertext {
+  padding: 5.5vh;
+  font-size: 8vh;
+  font-family: Spectral;
+  color: white;
+  margin: 0px;
 }
