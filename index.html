@@ -4,9 +4,11 @@
         <title>Spartan Ads</title>
         <link href="index.css" rel="stylesheet" type="text/css">
         <link rel="shortcut icon" href="assets/favicon.ico"/>
-        <script type="text/javascript" src="index.js"></script>
         <meta charset="UTF-8">
         <meta name="keywords" content="LCHS,LCUSD,iTeam,lchs go,la cañada">
+        <meta name="google-signin-client_id" content="984249493046-2v52k72js4nfq6kr6pc4rl46dmf6r9hc.apps.googleusercontent.com">
+        <script src="https://apis.google.com/js/platform.js" async defer></script>
+        <script type="text/javascript" src="index.js"></script>
     </head>
     <body>
         <header class="banner">
@@ -17,7 +19,7 @@
                 <h2>Welcome to Spartan Ads!</h2>
                 <p>This is a place where you can add your personalized ads for clubs or for events that you would like to advertise .</p>
                 <p>To contine, please sign in with your school Google account.</p>
-                <button class="SignInButton"></button>
+                <div class="g-signin2" data-onsuccess="onSignIn"></div>
             </div>
         </main>
         <footer>
