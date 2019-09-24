@@ -29,15 +29,6 @@ body {
   color: white;
   margin: 0px;
 }
-.SignInButton {
-  height: 46px;
-  width: 191px;
-  background: url("assets/btn_google_signin_light_normal.png") no-repeat;
-  border:0px
-}
-.SignInButton:active {
-  height: 46px;
-  width: 191px;
-  background: url("assets/btn_google_signin_light_pressed.png") no-repeat;
-  border:0px
+.g-signin2 {
+  display: inline-block;
 }
