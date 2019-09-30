@@ -34,11 +34,11 @@ body {
   margin-left: 100px;
   margin-right: 100px;
 }
-.button {
+.genericBtn {
   padding:20px;
-  background-image: #9D0526;
+  background: #9D0526;
   border-radius: 10px;
 }
-.button:active {
-  background-image: #980021;
+.genericBtn:active {
+  background: #980021;
 }
