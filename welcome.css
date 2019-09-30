@@ -35,9 +35,11 @@ body {
   margin-right: 100px;
 }
 .genericBtn {
-  padding:20px;
+  color: white;
+  padding:10px;
   background: #9D0526;
   border-radius: 10px;
+  border: 0px;
 }
 .genericBtn:active {
   background: #980021;
