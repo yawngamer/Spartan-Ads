@@ -34,3 +34,11 @@ body {
   margin-left: 100px;
   margin-right: 100px;
 }
+.button {
+  padding:20px;
+  background-color: #9D0526;
+  border-radius: 10px;
+}
+.button:active {
+  background-color: #980021;
+}
