@@ -9,4 +9,4 @@ You can also download all the files, put them in a folder, and open index.html. 
 This only kinda works tho. If you want all features to work, download this chrome app and use it to host.
 https://chrome.google.com/webstore/search/web%20server%20for%20chrome
 
-Note: the button won't display unless you host the website, and the actual sign-in won't work unless you use the whitelisted domain (ads.lciteam.club)
+Note: the button won't display unless you host the website, and the actual sign-in won't work unless you use the whitelisted domain listed above.
